@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - bt5e.google-cloud-sdk
+         - bt5e.google_cloud_sdk
 
 License
 -------

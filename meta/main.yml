@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: google-cloud-sdk
+  role_name: google_cloud_sdk
   author: Ben Tse
   description: Google Cloud SDK (https://cloud.google.com/sdk/docs).
   license: MIT
